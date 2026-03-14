@@ -45,7 +45,7 @@ The frontend is designed around two guiding principles:
 1. Install Python deps (backend repository):
 
 ```powershell
-cd c:\Users\TAB Developers\Documents\Projects\app_demo\campaignpro
+cd c:\Users\campaign_pro
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
@@ -54,7 +54,7 @@ python manage.py runserver
 2. Install UI deps and run React app:
 
 ```powershell
-cd c:\Users\TAB Developers\Documents\Projects\app_demo\campaignpro\ui
+cd c:\Users\campaign_pro\ui
 npm install
 npm start
 # or yarn install && yarn start
