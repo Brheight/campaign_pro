@@ -8,7 +8,7 @@ The frontend is designed around two guiding principles:
 
 ## 📁 Location
 
-- UI source: `app_demo/campaignpro/ui/src/pages`
+- UI source: `campaign_pro/ui/src/pages`
 - Core pages:
   - `SubscribersPage.jsx`
   - `TemplatesPage.jsx`
